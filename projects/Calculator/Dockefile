@@ -1,0 +1,11 @@
+FROM openjdk:17-jdk-alpine
+i
+WORKDIR /app
+^Z^Z
+copy . .
+
+
+RUN javac /src/main/java/com/houarizegai/calculator/App.java
+
+
+CMD ["java","Appi
