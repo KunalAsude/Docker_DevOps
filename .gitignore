@@ -7,4 +7,7 @@
 .profile
 .sudo_as_admin_successful
 .viminfo
+.aws/
+aws/
+awscliv2.zip
 
